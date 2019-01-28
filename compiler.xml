@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="BalanceService" />
+        <module name="CartService" />
+        <module name="ConfigStorage" />
+        <module name="ConfigStorageService" />
+        <module name="Filters" />
+        <module name="IdentityService" />
+        <module name="ItemService" />
+        <module name="Objects" />
+        <module name="Разработка КСП" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="BalanceService" target="7" />
+      <module name="CartService" target="7" />
+      <module name="ConfigStorage" target="1.8" />
+      <module name="Filters" target="1.8" />
+      <module name="IdentityService" target="1.8" />
+      <module name="ItemService" target="7" />
+      <module name="Objects" target="1.8" />
+      <module name="SqlConnection" target="1.8" />
+      <module name="Новая папка (2)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
